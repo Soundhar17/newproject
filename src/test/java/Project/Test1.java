@@ -30,7 +30,9 @@ public class Test1 extends Baseclass {
 		Test1.browser("chrome");
 		Test1.geturl("https://adactinhotelapp.com/index.php");
 		
-		System.out.println("Before class = launch Driver and launch URL ");
+		System.out.println("Before class = launch Driver and launch URL successfully ");
+		
+		
 
 	}
 
